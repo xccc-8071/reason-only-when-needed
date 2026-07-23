@@ -123,21 +123,12 @@ print(f"平均延迟:   {report.avg_latency_ms:.1f} ms")
 ## 引用
 
 ```bibtex
-@inproceedings{xue-etal-2026-reason,
-  title     = {Reason Only When Needed: Efficient Generative
-               Reward Modeling via Model-Internal Uncertainty},
-  author    = {Chao Xue and Yao Wang and Mengqiao Liu and Di Liang and
-               Xingsheng Han and Peiyang Liu and Xianjie Wu and Chenyao Lu and
-               Lei Jiang and Yu Lu and Haibo Shi and Shuang Liang and
-               Minlong Peng and Flora D. Salim},
-  booktitle = {Findings of the Association for Computational
-               Linguistics: ACL 2026},
-  pages     = {23302--23319},
-  year      = {2026},
-  address   = {San Diego, California, United States},
-  publisher = {Association for Computational Linguistics},
-  doi       = {10.18653/v1/2026.findings-acl.1167},
-  url       = {https://aclanthology.org/2026.findings-acl.1167/},
+@inproceedings{xue2026reason,
+   title={Reason only when needed: Efficient generative reward modeling via model-internal uncertainty},
+   author={Xue, Chao and Wang, Yao and Liu, Mengqiao and Liang, Di and Han, Xingsheng and Liu, Peiyang and Wu, Xianjie and Lu, Chenyao and Jiang, Lei and Lu, Yu and others},
+   booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+   pages={23302--23319},
+   year={2026}
 }
 ```
 
